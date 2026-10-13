@@ -1,0 +1,12 @@
+{
+  "cells": 2,
+  "max_qubits": null,
+  "random_depth": 3,
+  "peaking_depth": 2,
+  "identity_depth": 6,
+  "train_steps": 100,
+  "train_seconds": 120,
+  "patch_count": 2,
+  "seed": 7,
+  "verify_final": false
+}

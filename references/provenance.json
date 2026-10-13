@@ -1,0 +1,8 @@
+{
+  "source": "https://raw.githubusercontent.com/quantum-advantage-tracker/quantum-advantage-tracker.github.io/996c28e3c58ecce63b8ff0b5be7fdd8be81ad074/data/classically-verifiable-problems/circuit-models/peaked_circuit/peaked_circuit_heavy_hex_49x4020.qasm",
+  "commit": "996c28e3c58ecce63b8ff0b5be7fdd8be81ad074",
+  "sha256": "ef92424a8e365905037e2a610a50ec8cd46b032a0fb01fd12b80d2d8ed0f112f",
+  "aqora_dataset": "https://aqora.io/datasets/aqora/quantum-advantage-tracker-peaked-circuits/versions/0.0.0",
+  "attribution": "BlueQubit; Gharibyan et al.; Quantum Advantage Tracker",
+  "scope": "Published benchmark circuit, not generator source"
+}

@@ -1,0 +1,23 @@
+{
+  "cells": 5,
+  "max_qubits": null,
+  "random_depth": 3,
+  "peaking_depth": 2,
+  "identity_depth": 6,
+  "seed": 7,
+  "target": null,
+  "random_angle_scale": 1.0,
+  "training_backend": "tensor",
+  "train_steps": 160,
+  "train_seconds": 180,
+  "patch_count": 2,
+  "patch_width": 2,
+  "patch_steps": 150,
+  "patch_seconds": 20,
+  "patch_tolerance": 1e-05,
+  "kick": 0.35,
+  "swaps": 2,
+  "min_peak": 0.01,
+  "verify_final": false,
+  "rescale_training": false
+}

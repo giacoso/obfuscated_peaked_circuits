@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+tmp/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.log

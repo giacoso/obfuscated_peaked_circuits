@@ -1,0 +1,10 @@
+{
+  "cells": 3,
+  "max_qubits": null,
+  "train_steps": 160,
+  "train_seconds": 120,
+  "patch_count": 2,
+  "patch_steps": 150,
+  "verify_final": false,
+  "seed": 7
+}

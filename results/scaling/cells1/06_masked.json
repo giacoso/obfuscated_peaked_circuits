@@ -1,0 +1,6853 @@
+{
+  "n": 12,
+  "gates": [
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 1.8715044663826355,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -2.8079939464120467,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.5739759988299635,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 2.3173967216166043,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 1.4409836252702917,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -2.078722190896383,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.586835094300151,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 1.4515806988160156,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.760073484077155,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -1.198155523913255,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 0.24284057296635675,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 2.218326556917419,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.20392358012306877,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 2.535092937000284,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.4995055472989227,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.7120685990161317,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 1.1133952686199935,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.7066649818756483,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 1.2619220288871222,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -1.6181927532213591,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -0.4767292910460994,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.8529898911069687,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -0.6734229927030917,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -2.235395644094412,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -2.987136821211247,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 1.641018347417348,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.718912703422945,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 2.299298164108337,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 0.1649301117249209,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.030025616116654774,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.2993887779354534,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 2.0079814524128983,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.991891735980734,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.376805838069691,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -3.051829483091674,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.9307012531027237,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": 0.8626758487309294,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": 0.7212285898044777,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": -0.4931148759357673,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": 0.533174139676897,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 2.851507392159143,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": -1.2536518617054315,
+      "block": "R",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.12226388079394734,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -1.2286843717626887,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.383447446837839,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.5497147387293544,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.09247396412091957,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 2.883176356405886,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.9257303229093186,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -2.1851944474760305,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -1.740372585376567,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -2.842893989364478,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -0.7497016413971154,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 0.5100391336939398,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.0037894861523701806,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 2.3395616433513666,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 1.301333473083183,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 1.2483201699280855,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 0.5059118167282071,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.4248894952104103,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.4693062250057967,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -2.6707831706939134,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.139488922090208,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 3.0464270891008374,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -2.3122311892974112,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.24304830838101132,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.227545234085807,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 1.86297003920708,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.6606110886592207,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.5093639175972942,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -2.897293934217383,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.6563371948145686,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -0.31798939020172545,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 1.1012289337607388,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.7266583134812734,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.8221197001468616,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 1.5751781774000628,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.4078699457228945,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": 0.6752280099600587,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": -1.599919262296662,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": -3.106092908912169,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": 2.2563001093821082,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": 0.8471181181178844,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -1.4472408530055525,
+      "block": "R",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.5282926765156368,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 1.7122432988541174,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.2162315817988563,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.7100425725383293,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.2823090619495341,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.6122905763112612,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.0351690495339456,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -2.7705758454954124,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.49238636328067065,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 1.0429897840160294,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -1.4156057614941078,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.37185628596507847,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 2.1610453721197134,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 1.82887601840158,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -2.80341696219899,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.1845404186059536,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 1.0582782898160463,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.8819362100930039,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.5278915321684963,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -2.9179033583257095,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 1.2198508882350243,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -2.387251065679328,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 2.581524526200936,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 2.4714015062072443,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.6721151856833365,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -1.3398037428505745,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.760325445802514,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -3.057421499981561,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 2.794354722860798,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 1.7684219033516184,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.136083552120776,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 0.1722356542982295,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -1.146619257643189,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.1103569435369023,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -1.5812787738684428,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 1.6547335248768054,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": -0.10776486364603155,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": 2.255645593410681,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": -0.39498250285332936,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": -2.8854567706676706,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 2.494395533231696,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": -2.197381729756904,
+      "block": "R",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.8296584008285017,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -0.0830745610456809,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.9263057267300643,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 1.1192320493697103,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.8975893738573602,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -2.7096821522649153,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -3.0122097258261973,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -1.847544098298489,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.2043790198264377,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 0.1486081464060942,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -2.677015063574653,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 2.6229491079172176,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 1.4200918192169718,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -2.680223802911175,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -2.355504837951487,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -2.787221603433518,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -2.2681984942190647,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 2.6098675990444145,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.1285084052947,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -0.9715827688921959,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.9845432694977667,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.7041252001276912,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 0.8235183397616583,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -2.950203488494008,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 0.6992277606741002,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -2.011420081276806,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.2752500401511557,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 1.8931577306810121,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -0.116799762611838,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.4920587533850753,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.2530710179976374,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 2.538438531730229,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.704959965605382,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.8988275653600977,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 2.859830655616247,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.14652115946659983,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": -1.6679203529352513,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": -2.598738450429207,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": -1.0510230066606323,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": -2.011491763711491,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": -0.6708445289264393,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": 0.028874766194538104,
+      "block": "U",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 1.880661358417644,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 2.5095207130897155,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 1.4226156317106096,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.4362258827205565,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 1.1358244980026972,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.3873348914055903,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.94118808905735,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -1.6594890657138306,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.6388775175547963,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 2.652397342802961,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 1.3805149472266525,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 3.030972644652371,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.13450320991083542,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 1.0408769889433858,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -3.1219571494709486,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 2.556702642733854,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -2.258699233197479,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 2.9745793828773275,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 0.6701843899664297,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -0.49857021234210697,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.3338686207918244,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.03446666106460228,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -1.3996820834456492,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -3.1216982298044975,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 0.19726339275401195,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 1.5400611739633883,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.5972766218361656,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.5158535856920774,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -2.778996729268531,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 1.6933283116255913,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 1.1541229392180412,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -2.3955453469227592,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 1.574279441879181,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.6238012006940048,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -2.09249994788464,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 1.5863300036888273,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": 1.6023100344305936,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": -0.7910667682270156,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": -0.5760357192818515,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": -0.44675214953742337,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": -3.0384987382058792,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 0.13514904538303796,
+      "block": "U",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.409117383931859,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 2.861756856928732,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -0.2615643009768456,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.46385701809180535,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 1.7428322030499563,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 1.1066470565674882,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.8274184641187698,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -0.2441559817665091,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.6293540356355702,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 3.084773819325437,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 0.9934444023884161,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 0.6087582361290287,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -2.339228276743434,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 2.0152183594936144,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.5990284122402305,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.8871567912590175,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 0.9035348253551962,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.7331148063968373,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.379810536000913,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -1.7638645484365423,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -1.6810131079135744,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -2.104089307183905,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 2.3355708693878885,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 1.3567025314272874,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.1244987577924932,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -2.122005018696552,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.7809718920329216,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.3651251084783067,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 2.861849256183656,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 2.0181237688007263,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.5801400111238664,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 0.2821261419043415,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -0.1624727099234704,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.8264088075304841,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 1.208159774425292,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 1.5537102014884567,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": 2.795568026684049,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": -0.87196264109288,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": -1.5256518798698364,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": -1.6349790166053353,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": -1.67563592586596,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": 0.6245027118566027,
+      "block": "U",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 1.9607749542572934,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -0.5808706663236216,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.9550331774625649,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -2.435973392984208,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.5608099579034369,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.0362363082731707,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.3998939645069579,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -2.3166320298040697,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.3891702475281544,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 1.9512922618327817,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -1.267885554278941,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 2.378947591116529,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.6701970148577203,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 3.1343456401467122,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -3.130506835299333,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.38605434059781585,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 2.5152143745583775,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 1.9961951472949329,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.2746605187238083,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -2.3248048531686774,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 1.3711722099956303,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.04524836307602431,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -0.2122516133033372,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.6557801474741982,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.850040682208621,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -2.853371437719464,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -2.164803904844865,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -1.7782434194928038,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 1.4326991445134238,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 2.6644716864481,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.7846350743207049,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -1.709030874583563,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -0.8024434947544568,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.2891721456673686,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -0.8172287862647032,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.544302833593788,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": -2.321986196712454,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": 1.679658782215066,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": 1.258030034334932,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": -2.0798363405376223,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": -3.0026317092499144,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -0.4233813144813521,
+      "block": "U",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 2.962905055707484,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 2.472412720306628,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.39901642812281146,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 1.1801968515176657,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.924565300916492,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 2.648652198264884,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.02312054527128,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -2.764796904554974,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.8288342474934951,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -1.2959334385107557,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -0.7645947875155392,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 1.495983887515937,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.48104419554577227,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 1.59838691785332,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 2.0964531954101417,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.8971896706525735,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 2.7531218587335236,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 2.063656190377097,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.050445055409523,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -0.41977084609517723,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.16038772231986,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 1.2788150712338267,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 0.610719700335685,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.09440195537018248,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -2.8495964353150174,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 1.3511080507183433,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.207038073755181,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 2.898359407978589,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -1.769271350282781,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 3.1238388133183363,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.6555112759488333,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 0.7639009031106712,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.9539861419416233,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.025462876477577,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 0.4250744422318231,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.2941733804913413,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": -2.216617954716208,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": 2.825169795341841,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": -2.5540727900234903,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": 0.2858145691330489,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": -2.087023999080003,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": -3.0296246455524645,
+      "block": "U",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 2.8940928043194383,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 0.3142103035083461,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.7635048909494646,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 1.6800731912011235,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -1.8935350901399277,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.28586028590873447,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.142528709493676,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 1.749153601254395,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.1981050613801845,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.5325424439200792,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -0.13131841222218346,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -2.5070079973896764,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": 0.2961519612827613,
+      "block": "SWEEP",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 0.18719574989554788,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 0.5562302122298788,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -1.0963674305551323,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.5966267382073305,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 0.40330520096636047,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.9080898787555167,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.30241607408933474,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 0.45585883184581105,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.2465961790409044,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.0424321575426209,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -1.30744440153075,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.707237644493345,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -1.382328470992903,
+      "block": "MASK",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.9669956608889378,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -1.3399112864100013,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.2892461934141266,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.5021407563978018,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -1.0465294443485955,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.7681339256183658,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 1.1537954554062704,
+      "block": "MASK",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.024851635348321,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -0.2660793934330177,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.4742832888649491,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.178656390392031,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 0.690687479670662,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.2017438443581343,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -0.2284727630723255,
+      "block": "MASK",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.10054937873593513,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 0.7255362500532901,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.7207748551224326,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.5348902757267627,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -1.1640272100031535,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.133059788358514,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 0.6345227775826531,
+      "block": "MASK",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.281166088938374,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -0.7398492298133282,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.6061190861695221,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.37077652229288965,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 0.5740596083129864,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.364605061760337,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -1.526174889086892,
+      "block": "MASK",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 1.5863612915096241,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 1.3225758591647094,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.33320191828329593,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.9682197167806317,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 0.6630582268067784,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.015111596757856909,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 0.7022061570868663,
+      "block": "MASK",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -1.5016766841782145,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -0.895819152204548,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.5462956621425734,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -2.4214165439935025,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -2.6564674412142546,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.8380924915318575,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -2.443934240399219,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 0.9732163950834369,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -0.006360556013212282,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.3553349889612187,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -1.8051060474821654,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 1.7598941511624595,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": 1.6689368352254892,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": 2.4491508166168954,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": 1.9806552188711768,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": 0.031612661895450866,
+      "block": "U",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -2.0933534087759256,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": -0.031612661895450866,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": -1.9806552188711768,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": -0.2961519692097183,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": -2.4491508166168954,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": -1.6689368352254892,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.7210068688762066,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 0.6886014601365411,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.977356611834214,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -1.7598941511624595,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 1.8051060474821654,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.3553349889612187,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 2.507008109833248,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 0.13131851557213414,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.5325423230894448,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 0.006360556013212282,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -0.9732163950834369,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.443934240399219,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.8380924915318575,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 2.6564674412142546,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 2.4214165439935025,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.5462956621425734,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 0.895819152204548,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 1.5016766841782145,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.7391677852909342,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 1.0948173098531129,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.19745825772096604,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.9080898787555167,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -0.40330520096636047,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.5966267382073305,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 1.0963674305551323,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -0.5562302122298788,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.18719574989554788,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.1981050521439807,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": -1.7491536168035386,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.1425287092114473,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.28586028590873447,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 1.8935350901399277,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.6800731912011235,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 2.7635048909494646,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -0.3142103035083461,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.8940928043194383,
+      "block": "U_DAGGER",
+      "layer": 5
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": 3.0296246455524645,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 2.087023999080003,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": -0.2858145691330489,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": 2.5540727900234903,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": -2.825169795341841,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": 2.216617954716208,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.2941733804913413,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -0.4250744422318231,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.025462876477577,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -2.9539861419416233,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -0.7639009031106712,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -0.6555112759488333,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -3.1238388133183363,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 1.769271350282781,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -2.898359407978589,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.207038073755181,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -1.3511080507183433,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.8495964353150174,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.09440195537018248,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -0.610719700335685,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -1.2788150712338267,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.16038772231986,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 0.41977084609517723,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.050445055409523,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -2.063656190377097,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -2.7531218587335236,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.8971896706525735,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -2.0964531954101417,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -1.59838691785332,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.48104419554577227,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -1.495983887515937,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 0.7645947875155392,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": 1.2959334385107557,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.8288342474934951,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 2.764796904554974,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.02312054527128,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -2.648652198264884,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -0.924565300916492,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.1801968515176657,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -0.39901642812281146,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -2.472412720306628,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -2.962905055707484,
+      "block": "U_DAGGER",
+      "layer": 4
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 0.4233813144813521,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": 3.0026317092499144,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": 2.0798363405376223,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": -1.258030034334932,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": -1.679658782215066,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": 2.321986196712454,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -2.544302833593788,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 0.8172287862647032,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.2891721456673686,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.8024434947544568,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 1.709030874583563,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -0.7846350743207049,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -2.6644716864481,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -1.4326991445134238,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 1.7782434194928038,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 2.164803904844865,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 2.853371437719464,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.850040682208621,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.6557801474741982,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 0.2122516133033372,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 0.04524836307602431,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -1.3711722099956303,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 2.3248048531686774,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.2746605187238083,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.9961951472949329,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -2.5152143745583775,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.38605434059781585,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 3.130506835299333,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -3.1343456401467122,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.6701970148577203,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -2.378947591116529,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 1.267885554278941,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -1.9512922618327817,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -2.3891702475281544,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 2.3166320298040697,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.3998939645069579,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.0362363082731707,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -0.5608099579034369,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 2.435973392984208,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -0.9550331774625649,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 0.5808706663236216,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -1.9607749542572934,
+      "block": "U_DAGGER",
+      "layer": 3
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": -0.6245027118566027,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 1.67563592586596,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": 1.6349790166053353,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": 1.5256518798698364,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": 0.87196264109288,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": -2.795568026684049,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.5537102014884567,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -1.208159774425292,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.8264088075304841,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.1624727099234704,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -0.2821261419043415,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.5801400111238664,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -2.0181237688007263,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -2.861849256183656,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.3651251084783067,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.7809718920329216,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 2.122005018696552,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.1244987577924932,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -1.3567025314272874,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -2.3355708693878885,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 2.104089307183905,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 1.6810131079135744,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 1.7638645484365423,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.379810536000913,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.7331148063968373,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -0.9035348253551962,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.8871567912590175,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.5990284122402305,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -2.0152183594936144,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 2.339228276743434,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.6087582361290287,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -0.9934444023884161,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -3.084773819325437,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.6293540356355702,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 0.2441559817665091,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 0.8274184641187698,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.1066470565674882,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -1.7428322030499563,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.46385701809180535,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.2615643009768456,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -2.861756856928732,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 2.409117383931859,
+      "block": "U_DAGGER",
+      "layer": 2
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": -0.13514904538303796,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": 3.0384987382058792,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": 0.44675214953742337,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": 0.5760357192818515,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": 0.7910667682270156,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": -1.6023100344305936,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -1.5863300036888273,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": 2.09249994788464,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 1.6238012006940048,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -1.574279441879181,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 2.3955453469227592,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -1.1541229392180412,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -1.6933283116255913,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 2.778996729268531,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": 0.5158535856920774,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.5972766218361656,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -1.5400611739633883,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -0.19726339275401195,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 3.1216982298044975,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 1.3996820834456492,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.03446666106460228,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.3338686207918244,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 0.49857021234210697,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -0.6701843899664297,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -2.9745793828773275,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 2.258699233197479,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -2.556702642733854,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 3.1219571494709486,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -1.0408769889433858,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.13450320991083542,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -3.030972644652371,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -1.3805149472266525,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -2.652397342802961,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.6388775175547963,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 1.6594890657138306,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 2.94118808905735,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.3873348914055903,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -1.1358244980026972,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.4362258827205565,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -1.4226156317106096,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": -2.5095207130897155,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -1.880661358417644,
+      "block": "U_DAGGER",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": -0.028874766194538104,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 0.6708445289264393,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": 2.011491763711491,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": 1.0510230066606323,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": 2.598738450429207,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": 1.6679203529352513,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.14652115946659983,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -2.859830655616247,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 2.8988275653600977,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.704959965605382,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -2.538438531730229,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 2.2530710179976374,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.4920587533850753,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 0.116799762611838,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -1.8931577306810121,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 1.2752500401511557,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": 2.011420081276806,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -0.6992277606741002,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": 2.950203488494008,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -0.8235183397616583,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.7041252001276912,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.9845432694977667,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 0.9715827688921959,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 2.1285084052947,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -2.6098675990444145,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 2.2681984942190647,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 2.787221603433518,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 2.355504837951487,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": 2.680223802911175,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -1.4200918192169718,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -2.6229491079172176,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 2.677015063574653,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.1486081464060942,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.2043790198264377,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 1.847544098298489,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": 3.0122097258261973,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 2.7096821522649153,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -0.8975893738573602,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.1192320493697103,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 2.9263057267300643,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 0.0830745610456809,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": -0.8296584008285017,
+      "block": "U_DAGGER",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.34104450087047594,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 0.9589609217328343,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.3606615419813224,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.21597758225555092,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": 0.7251278844489031,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -0.6535383631656132,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -1.3624144774156355,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 0.9998858350878687,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.16669127692619856,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.4931679220190759,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": -1.3439716945237046,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.9189597697616597,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": 0.23366059865810926,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -0.8210943472797118,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.6700730248145589,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -1.2757939395892726,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": 1.1472275630700184,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": -0.26052466029776306,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -2.123103040863421,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": 1.3113788154909558,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -0.31306093182950223,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.3725868130297527,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": -0.7330955826258511,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.20328016744086103,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -1.6697763125030234,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -2.03121284411129,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 0.07031354786083446,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.6299368063680326,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": -0.039362541397175724,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.6999187960096058,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": -1.5736207509234168,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": 1.8371815038040695,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 1.0860010309806272,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.14964290962471047,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -1.5986252021478924,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.6919791762614025,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        7
+      ],
+      "theta": 0.24584061468060414,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        6
+      ],
+      "theta": -1.1768666225422637,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        8
+      ],
+      "theta": 0.9072141333506474,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        10
+      ],
+      "theta": -0.3098811944033314,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        11
+      ],
+      "theta": 1.0227213741810375,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        9
+      ],
+      "theta": 1.9996967918679525,
+      "block": "P",
+      "layer": 0
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.8203013055576355,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        0
+      ],
+      "theta": 0.7933259917508918,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        0
+      ],
+      "theta": 0.08099035425550818,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": -1.0441142877726948,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        1
+      ],
+      "theta": -0.2258448696548443,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        1
+      ],
+      "theta": 0.3369175668248862,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.1796475895097867,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        2
+      ],
+      "theta": 1.3826556277956632,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        2
+      ],
+      "theta": -0.45157357856637353,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.8504968266168557,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        3
+      ],
+      "theta": 1.3541620557812444,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        3
+      ],
+      "theta": -0.0614036973594036,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -1.079021127646683,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        4
+      ],
+      "theta": -1.7163631801767734,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        4
+      ],
+      "theta": -0.614826471582646,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.6733384704800862,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        5
+      ],
+      "theta": -1.357711936370236,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        5
+      ],
+      "theta": 0.44027930980311725,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": -0.8386001304758798,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        6
+      ],
+      "theta": -1.6724623699616739,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        6
+      ],
+      "theta": 0.35166964996371175,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.636957671340801,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        7
+      ],
+      "theta": 0.6053826409436183,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        7
+      ],
+      "theta": -0.5070190663383173,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": -0.7930796711142613,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        8
+      ],
+      "theta": -0.8295189465456231,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        8
+      ],
+      "theta": 0.1516603925288201,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.765910192604453,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        9
+      ],
+      "theta": 0.3484299674556038,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        9
+      ],
+      "theta": -0.4803272382775369,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.9047655914532503,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        10
+      ],
+      "theta": -0.3862287519335262,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        10
+      ],
+      "theta": 0.47689821735447513,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": -0.11633108659749314,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RY",
+      "qubits": [
+        11
+      ],
+      "theta": -0.6258375617853472,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZ",
+      "qubits": [
+        11
+      ],
+      "theta": 0.5917909256910413,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        0,
+        6
+      ],
+      "theta": -0.5370846244170188,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        1,
+        8
+      ],
+      "theta": 0.023721693326691717,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        2,
+        9
+      ],
+      "theta": -0.44832460179254197,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        3,
+        7
+      ],
+      "theta": -0.5744250301870785,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        4,
+        10
+      ],
+      "theta": -0.7796663829038843,
+      "block": "P",
+      "layer": 1
+    },
+    {
+      "name": "RZZ",
+      "qubits": [
+        5,
+        11
+      ],
+      "theta": 0.17488870024993455,
+      "block": "P",
+      "layer": 1
+    }
+  ]
+}

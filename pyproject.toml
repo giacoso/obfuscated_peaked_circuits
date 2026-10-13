@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hqap-heavy-hex"
+version = "0.1.0"
+description = "Kommentierte Forschungsimplementierung von HQAP Kapitel 3 auf Heavy Hex"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2", "scipy>=1.14", "quimb>=1.10", "qiskit>=2", "networkx>=3", "matplotlib>=3.9", "autograd>=1.7", "qiskit-qasm3-import>=0.5"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.scripts]
+hqap = "hqap.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["hqap*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

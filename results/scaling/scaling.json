@@ -1,0 +1,67 @@
+{
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "packages": {
+      "numpy": "2.5.3",
+      "scipy": "1.18.1",
+      "quimb": "1.15.0",
+      "qiskit": "2.5.2",
+      "networkx": "3.7",
+      "autograd": "1.9.1"
+    }
+  },
+  "runs": [
+    {
+      "cells": 1,
+      "n": 12,
+      "status": "constructed",
+      "lower_bound": 0.3153870746530621,
+      "shallow_probability": 0.31538813326069753,
+      "meets_peak": true,
+      "optimizer_success": false,
+      "seconds": 10.358999999938533
+    },
+    {
+      "cells": 2,
+      "n": 35,
+      "status": "constructed",
+      "lower_bound": 0.2378666678382287,
+      "shallow_probability": 0.2378675816654099,
+      "meets_peak": true,
+      "optimizer_success": false,
+      "seconds": 32.51599999994505
+    },
+    {
+      "cells": 3,
+      "n": 68,
+      "status": "constructed",
+      "lower_bound": 4.311820503163815e-11,
+      "shallow_probability": 4.686502778470538e-11,
+      "meets_peak": false,
+      "optimizer_success": false,
+      "seconds": 34.34400000004098
+    },
+    {
+      "cells": 4,
+      "n": 111,
+      "status": "constructed",
+      "lower_bound": 1.1099981837324322e-08,
+      "shallow_probability": 1.118319844774411e-08,
+      "meets_peak": false,
+      "optimizer_success": false,
+      "seconds": 35.125
+    },
+    {
+      "cells": 5,
+      "n": 164,
+      "status": "constructed",
+      "lower_bound": 0,
+      "shallow_probability": 1.160671944469068e-30,
+      "meets_peak": false,
+      "optimizer_success": false,
+      "seconds": 38.39000000001397
+    }
+  ],
+  "optimization_strategy": "single_fixed_scale; historical baseline"
+}

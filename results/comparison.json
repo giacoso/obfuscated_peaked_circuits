@@ -1,0 +1,51 @@
+{
+  "legacy": {
+    "circuits": {
+      "max_abs_error": 1.6711069443220836e-16,
+      "n": 6,
+      "gates": 10,
+      "seed": 13
+    },
+    "functions": {
+      "max_abs_error": 1.6711069443220836e-16,
+      "n": 6,
+      "gates": 10,
+      "seed": 13
+    }
+  },
+  "simulators": {
+    "qiskit_max_abs_error": 0.0,
+    "quimb_max_abs_error": 9.562355351125517e-16,
+    "norm": 0.9999999999999989
+  },
+  "external": {
+    "file": "references\\peaked_circuit_heavy_hex_49x4020.qasm",
+    "sha256": "ef92424a8e365905037e2a610a50ec8cd46b032a0fb01fd12b80d2d8ed0f112f",
+    "n_qubits": 49,
+    "gates": 12109,
+    "gate_counts": {
+      "u": 8089,
+      "cz": 4020
+    },
+    "interaction_edges": 54,
+    "max_degree": 3,
+    "window_start": 2,
+    "window_gates": 18,
+    "window_qubits": 8,
+    "window_qiskit_error": 0.0,
+    "window_quimb_error": 3.5327080320384943e-16,
+    "full_peak_verified": false
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "packages": {
+      "numpy": "2.5.3",
+      "scipy": "1.18.1",
+      "quimb": "1.15.0",
+      "qiskit": "2.5.2",
+      "networkx": "3.7",
+      "autograd": "1.9.1"
+    }
+  }
+}
